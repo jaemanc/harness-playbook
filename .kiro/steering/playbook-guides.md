@@ -1,15 +1,15 @@
-# 하네스 플레이북 가이드
+# Harness Playbook
 
-이 프로젝트에서 관리하는 가이드 파일들입니다. 작업 시 아래 가이드를 참고합니다.
+Playbook files managed in this project. Reference them during work.
 
-## Code Level 가이드
-#[[file:../../code-level-guide.md]]
+## Code Level Playbook
+#[[file:../../code-level-playbook.md]]
 
-## Test Level 가이드
-#[[file:../../test-level-guide.md]]
+## Test Level Playbook
+#[[file:../../test-level-playbook.md]]
 
-## Infra Level 가이드
-#[[file:../../infra-level-guide.md]]
+## Infra Level Playbook
+#[[file:../../infra-level-playbook.md]]
 
-## 에이전트 코딩 가이드
-#[[file:../../agent-coding-guide.md]]
+## Agent Coding Playbook
+#[[file:../../agent-coding-playbook.md]]

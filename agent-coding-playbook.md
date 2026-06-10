@@ -1,4 +1,4 @@
-# Agent Coding Guide
+# Agent Coding Playbook
 
 > Source: [Andrej Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills) (MIT License). Content was rephrased for compliance with licensing restrictions.
 
@@ -28,8 +28,8 @@ These principles bias toward caution over speed. For trivial tasks (typo fixes,
 obvious one-liners), use judgment on how strictly to apply them. The goal is to
 reduce costly mistakes on non-trivial work, not to slow down simple tasks.
 
-## Related Level Guides
+## Related Playbooks
 
-- Writing/editing code: `code-level-guide.md` (Simplicity First, Surgical Changes)
-- Testing/verification: `test-level-guide.md` (Goal-Driven Execution)
-- Infrastructure work: `infra-level-guide.md`
+- Writing/editing code: `code-level-playbook.md` (Simplicity First, Surgical Changes)
+- Testing/verification: `test-level-playbook.md` (Goal-Driven Execution)
+- Infrastructure work: `infra-level-playbook.md` (incl. Secrets & Sensitive Data)

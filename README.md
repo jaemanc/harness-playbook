@@ -10,14 +10,14 @@ This repo centralizes **general-purpose guidelines** that any agent or coding to
 
 | File | Content |
 |---|---|
-| `code-level-guide.md` | Principles for writing and editing code |
-| `test-level-guide.md` | Principles for testing and verification |
-| `infra-level-guide.md` | Principles for infrastructure and IaC work |
-| `agent-coding-guide.md` | General behavioral principles for agents |
+| `code-level-playbook.md` | Principles for writing and editing code |
+| `test-level-playbook.md` | Principles for testing and verification |
+| `infra-level-playbook.md` | Principles for infrastructure, IaC, and secrets handling |
+| `agent-coding-playbook.md` | General behavioral principles for agents |
 
 ## Usage
 
-Include each guide in your agent's context or rules to reference it. Layer project-specific rules on top of these guidelines.
+Include each playbook in your agent's context or rules to reference it. Layer project-specific rules on top of these guidelines.
 
 ## Principles
 
