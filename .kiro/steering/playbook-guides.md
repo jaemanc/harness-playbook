@@ -2,6 +2,8 @@
 
 Playbook files managed in this project. Reference them during work.
 
+> Several principles are adapted from the [Andrej Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills) (MIT License). Content was rephrased for compliance with licensing restrictions.
+
 ## Code Level Playbook
 #[[file:../../code-level-playbook.md]]
 
