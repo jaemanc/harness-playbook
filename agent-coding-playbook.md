@@ -1,7 +1,5 @@
 # Agent Coding Playbook
 
-> Source: [Andrej Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills) (MIT License). Content was rephrased for compliance with licensing restrictions.
-
 Behavioral principles for an agent before and during coding work.
 
 ## Think Before Coding

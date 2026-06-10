@@ -23,3 +23,7 @@ Include each playbook in your agent's context or rules to reference it. Layer pr
 
 - Write only guidelines that apply broadly.
 - Keep out anything tied to a specific language, framework, or project.
+
+## Attribution
+
+Several principles are adapted from the [Andrej Karpathy-Inspired Claude Code Guidelines](https://github.com/multica-ai/andrej-karpathy-skills) (MIT License). Content was rephrased for compliance with licensing restrictions.
