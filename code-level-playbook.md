@@ -29,3 +29,12 @@ When your changes create orphans:
 - Don't remove pre-existing dead code unless asked.
 
 Test: Every changed line should trace directly to the request.
+
+## 3. Commit Discipline
+
+Don't commit on your own. Confirm with the user first.
+
+- Don't run commits unprompted.
+- When a commit is needed, ask the user whether to commit.
+- Show the proposed commit message and get confirmation before committing.
+- Don't run `git commit` until the user approves.
