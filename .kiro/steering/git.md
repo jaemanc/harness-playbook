@@ -1,13 +1,9 @@
-# Git 작업 지침
+# Git Rules
 
-## 커밋 권한
-- 커밋은 임의로 실행하지 않습니다.
-- 커밋이 필요하면 먼저 사용자에게 커밋해도 될지 물어봅니다.
-- 커밋 메시지를 사용자에게 보여주고 확인받은 뒤에 커밋합니다.
-- 사용자가 승인하기 전에는 `git commit`을 실행하지 않습니다.
+## Commit
+- Don't commit without asking the user first.
+- Show the proposed commit message and get confirmation before running `git commit`.
 
-## Push 권한
-- `git push`는 사용자(소유자)의 권한입니다.
-- Kiro는 절대 `git push`를 실행하지 않습니다.
-- 커밋까지만 수행하고, 푸시는 사용자가 직접 합니다.
-- 푸시가 필요해 보여도 대신 실행하지 말고, 사용자에게 맡깁니다.
+## Push
+- Never run `git push`. Push is the user's responsibility.
+- Even if a push seems needed, leave it to the user.
